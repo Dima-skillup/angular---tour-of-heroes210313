@@ -19,7 +19,7 @@
       background-color: #e6e6e6;
       left: .6em;
     }
-    .selected {
+    &.selected {
       background-color: black;
       color: white;
       &:hover {
